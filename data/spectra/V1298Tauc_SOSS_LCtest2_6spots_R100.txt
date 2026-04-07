@@ -1,4 +1,3 @@
-# V1298 Tau c, NIRISS SOSS Order 1 at R=100, with spots modeled using gaussian functions
 # 0=Wavelength (micron), 1=Wavelength half-width (micron), 2=Transit Depth, 3=Transit Depth Uncertainty
 0.862450 0.004876 0.001359 0.000086
 0.872217 0.004891 0.001423 0.000079
